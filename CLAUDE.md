@@ -6,6 +6,22 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Next.js 15+ App Router 기반 모던 웹 스타터킷입니다. TypeScript, Tailwind CSS v4, shadcn/ui를 사용하여 구축되었습니다.
 
+### 주요 기능
+
+- Route Groups 기반 페이지 구조 (인증, 대시보드, 기능 소개)
+- shadcn/ui 컴포넌트 라이브러리 완전 설정
+- 다크모드/라이트모드 테마 전환 (next-themes)
+- TypeScript 경로 별칭 설정 (`@/*`)
+- Tailwind CSS v4 최신 스타일링
+- 재사용 가능한 컴포넌트 구조 (ui, blocks, sections, layout)
+
+### 용도
+
+- 모던 웹 애플리케이션 빠른 프로토타이핑
+- Next.js App Router 학습 및 실습용 템플릿
+- shadcn/ui 기반 프로젝트 시작점
+- 엔터프라이즈급 프로젝트 기반 구조
+
 ## 개발 명령어
 
 ```bash
