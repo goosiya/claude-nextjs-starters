@@ -5,7 +5,9 @@
       "WebSearch",
       "Webfetch",
       "Bash(npm run dev:*)",
-      "mcp__playwright"
+      "mcp__playwright",
+      "mcp__sequential-thinking",
+      "mcp__shadcn"
     ]
   },
   "enabledMcpjsonServers": [
